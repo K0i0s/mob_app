@@ -1,7 +1,5 @@
 # Mob_app
 
-## 30/01/2024
-
 Proyecto de prueba para verificar que el alumno fue capaz de:
 
 * Crear un nuevo proyecto movil.
